@@ -1,1 +1,53 @@
-hello
+1. Project Overview:-
+## HR Management Report with Power BI
+This is a prject to construct an HR analytics dashboard to comprehend workforce trends and lower turnover rates. 
+This dashboard can help you gain insights into employee engagement, highlighting areas that require improvement.
+### Key Features
+- Data filtering by JobSatisfaction Score, Department, Age, Gender and Department.
+- Visualization on different Key Factors.
+
+2. Dataset Information:-
+The dataset used in this project includes employee-related data with the following columns:
+
+- Age: Employee's age.
+- Attrition: Whether the employee has left the company.
+- BusinessTravel: Frequency of business travel by the employee.
+- DailyRate: Daily pay rate of the employee.
+- Department: Department where the employee works.
+- DistanceFromHome: Distance between the employee's home and workplace.
+- Education: Employee's education level.
+- EducationField: Field of education of the employee.
+- EmployeeCount: Total number of employees (constant in the dataset).
+- EmployeeNumber: Unique identifier for each employee.
+- EnvironmentSatisfaction: Satisfaction with the work environment.
+- Gender: Gender of the employee.
+- HourlyRate: Hourly pay rate of the employee.
+- JobInvolvement: Level of employee's job involvement.
+- JobLevel: Job level of the employee.
+- JobRole: The role or designation of the employee.
+- JobSatisfaction: Satisfaction with the job.
+- MaritalStatus: Employee's marital status.
+- MonthlyIncome: Monthly income of the employee.
+- MonthlyRate: Monthly pay rate.
+- NumCompaniesWorked: Number of companies the employee has worked for.
+- Over18: Whether the employee is over 18 years old.
+- OverTime: Whether the employee works overtime.
+- PercentSalaryHike: Percent increase in salary.
+- PerformanceRating: Employee's performance rating.
+- RelationshipSatisfaction: Satisfaction with personal relationships at work.
+- StandardHours: Standard working hours (constant in the dataset).
+- StockOptionLevel: Stock option level assigned to the employee.
+- TotalWorkingYears: Total number of years the employee has worked.
+- TrainingTimesLastYear: Number of training sessions attended last year.
+- WorkLifeBalance: Work-life balance rating.
+- YearsAtCompany: Total years the employee has been at the company.
+- YearsInCurrentRole: Number of years in the current role.
+- YearsSinceLastPromotion: Number of years since the last promotion.
+- YearsWithCurrManager: Number of years the employee has worked with the current manager.
+
+3. Setup Instructions
+To view or modify the Power BI project, follow these steps:
+- Download the 'Hr Management Report.pbix' file from this repository.
+- Open Power Bi Desktop.
+- Load the project by opening the'Hr Management Report.pbix' file.
+- Connect or update the data source if necessary.
